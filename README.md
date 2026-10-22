@@ -2,13 +2,9 @@
 
 **VikingFoes** overhauls Valheim's creature combat dynamics through anatomical damage resistances, converted attack types, calibrated poise stagger thresholds, and organic bleed afflictions built on VikingLib.
 
-![VikingFoes Combat Encounter](screenshot_foes_combat.png)
+> ⚠️ **Work in Progress (Pre-Release v0.1.0)**: This mod is in active development and has not been tested extensively. Features, balance, and mechanics may change, and unintended bugs or edge cases may occur. Backup your character and world saves before testing.
 
-> [!WARNING]
-> **Work in Progress (Pre-Release v0.1.0)**: This mod is in active development and has not been tested extensively. Features, balance, and mechanics may change, and unintended bugs or edge cases may occur. Backup your character and world saves before testing.
-
-> [!IMPORTANT]
-> **Powered by VikingLib**: This mod requires [VikingLib](https://valheim.thunderstore.io/package/DigitalVikings/VikingLib/). 
+> ⚡ **Powered by VikingLib**: This mod requires [VikingLib](https://valheim.thunderstore.io/package/DigitalVikings/VikingLib/). 
 > VikingLib replaces Valheim's native combat calculation and stat engines. Not all mods may be compatible / work as expected with this.
 
 ---
